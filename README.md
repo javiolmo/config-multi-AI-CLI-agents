@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent Unified Workspace
+# 🤖 Multi-Agent Unified Context
 
 Este repositorio está configurado bajo el estándar de **Vibe Coding** y **Agentic Workflows**, permitiendo que múltiples asistentes de IA (**Claude Code**, **Gemini CLI** y **OpenCode**) trabajen de forma armónica sobre una única fuente de verdad.
 
