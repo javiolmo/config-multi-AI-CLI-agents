@@ -75,7 +75,7 @@ Para configurar este entorno automáticamente (creación de directorios, symlink
 ---
 ## 🧩 Extensibilidad (MCP)
 ¿Quieres añadir más herramientas como Google Search, GitHub o acceso a bases de datos? 
-Consulta nuestra [Guía de Configuración MCP](MCP_GUIDE.md) para aprender cómo extender las capacidades de tus agentes de forma manual.
+Consulta la [Guía de Configuración MCP](MCP_GUIDE.md) para aprender cómo extender las capacidades de tus agentes de forma manual.
 
 ---
 
